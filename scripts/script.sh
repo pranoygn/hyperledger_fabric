@@ -7,7 +7,7 @@ echo "\___ \    | |     / _ \   | |_) |   | |  "
 echo " ___) |   | |    / ___ \  |  _ <    | |  "
 echo "|____/    |_|   /_/   \_\ |_| \_\   |_|  "
 echo
-echo "Build multi host network (BMHN) end-to-end test"
+echo "Build Your host network (BYN) end-to-end test"
 echo
 CHANNEL_NAME="$1"
 DELAY="$2"
